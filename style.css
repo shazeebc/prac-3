@@ -1,0 +1,22 @@
+.main{
+    width: auto;
+    height: 600px;
+    border: 1px solid black;
+    display: flex;
+
+}
+
+
+.main .color1{
+    width: 180px;
+}
+.main .color2{
+    flex: 200px;
+
+}
+.main .color3{
+    flex: 220px;
+}
+.main .color4{
+    flex: 250;
+}
