@@ -1,6 +1,6 @@
 .main{
     width: auto;
-    height: 600px;
+    height: 300px;
     border: 1px solid black;
     display: flex;
 
@@ -18,5 +18,70 @@
     flex: 220px;
 }
 .main .color4{
-    flex: 250;
+    flex: 220;
+}
+
+
+.flex{
+    text-align: center;
+    padding-left: 35rem;
+}
+
+.flex1{
+    display: flex;
+   
+}
+.flex .flex2{
+    background-color: red;
+    
+}
+
+.list-non-bullet{
+     list-style: none;
+}
+.list-item-inline{
+    display: inline;
+    color: red;
+    text-align: right
+}
+.nav1{
+    color:red;
+    font-style: oblique;
+    font-weight: bolder;
+    font-size: 1rem
+}
+.body{
+   background-image: url(/image/Netflix-Background.jpg);
+}
+.h1 {
+    color:black;
+    text-align: center;
+    padding-bottom: 1rem;
+
+}
+.h2{
+    color: black;
+    text-align: center;
+    padding-bottom: 0.7rem;
+
+}
+.p1{
+    color: black;
+    text-align: center;
+    padding-bottom: 2rem;
+}
+.list-non-bullet.list-item-inline{
+    background-color: red;
+}
+.get{
+    background-color: red;
+    font-size: x-large;
+    font-weight: 200;
+    
+}
+.laguage{
+    padding: 35rem;
+}
+nav .nav1{
+    text-align: center;
 }
